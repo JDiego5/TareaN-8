@@ -113,6 +113,8 @@ Ejercicios Capitulo 16
 
 IV)  VIDEO
 
+Link del video: https://www.youtube.com/watch?v=c27rxbBERPs
+
 V)  CONCLUSIONES
 
 En conclusion, estos capitulos nos ayudaron a usar números complejos para expresar cantidades fasoriales, lograr describir la relación entre corriente y voltaje en un circuito RC en serie, analizar un circuito RC en paralelo, determinar potencia en circuitos RC y ya por ultimo analizar algunas aplicaciones básicas de RC. Los numeros complejos nos ayudan a medir las cantidades fasoriales, ademas de usar las leyes de kirchoff para determinar voltajes. 
